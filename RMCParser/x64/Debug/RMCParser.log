@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  dllmain.cpp
+  RMCParser.cpp
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(13,12): warning C4273: 'RMC::RMC': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(27,5): message : see previous definition of '{ctor}'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(22,22): warning C4273: 'RMC::RMC': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(28,5): message : see previous definition of '{ctor}'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(27,32): warning C4273: 'RMC::validity': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(30,10): message : see previous definition of 'validity'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(37,30): warning C4273: 'RMC::setGPS': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(29,10): message : see previous definition of 'setGPS'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(58,51): warning C4273: 'RMC::splitstringbycomma': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(31,20): message : see previous definition of 'splitstringbycomma'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(68,40): warning C4273: 'RMC::stringtodouble': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(34,12): message : see previous definition of 'stringtodouble'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(80,40): warning C4273: 'RMC::getCoordinates': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(35,12): message : see previous definition of 'getCoordinates'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(96,32): warning C4273: 'RMC::checksum': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(32,9): message : see previous definition of 'checksum'
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(105,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.cpp(119,32): warning C4273: 'RMC::hexchecksum': inconsistent dll linkage
+D:\VisualStudioCommunityProjects\RMCParser\RMCParser\RMCParser.h(33,12): message : see previous definition of 'hexchecksum'
+  Generating Code...
+     Creating library D:\VisualStudioCommunityProjects\RMCParser\x64\Debug\RMCParser.lib and object D:\VisualStudioCommunityProjects\RMCParser\x64\Debug\RMCParser.exp
+  RMCParser.vcxproj -> D:\VisualStudioCommunityProjects\RMCParser\x64\Debug\RMCParser.dll
